@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Virtual Environments (Agar tumne banaya ho)
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and Code Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
