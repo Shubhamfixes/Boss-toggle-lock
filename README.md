@@ -4,7 +4,7 @@ Ek super fun aur interactive command-line password protector bot! Yeh bot na sir
 
 ---
 
-## ✨ Features (Isme kya khass hai?)
+## ✨ Features...
 
 - **🎙️ Talking Bot:** `pyttsx3` library ka use karke bot real-time me aapse baatein karta hai.
 - **🔄 TAB Key Magic:** Type karte waqt keyboard ka `TAB` button dabaoge, toh password turant chhip jayega (`*`) ya dikhne lagega.
@@ -13,7 +13,7 @@ Ek super fun aur interactive command-line password protector bot! Yeh bot na sir
 
 ---
 
-## 📚 Libraries Used (Kaun si library kya kaam kar rahi hai?)
+## 📚 Libraries Used...
 
 Is project me humne Python ki 4 libraries ka use kiya hai, jisme se kuch built-in (pehle se aati hain) hain:
 
@@ -28,7 +28,7 @@ Is project me humne Python ki 4 libraries ka use kiya hai, jisme se kuch built-i
 
 ---
 
-## 🚀 Step-by-Step Guide: Kaise use karein?
+## 🚀 Step-by-Step Guide:
 
 Apne computer par is bot ko chalane ke liye niche diye gaye steps follow karo:
 
